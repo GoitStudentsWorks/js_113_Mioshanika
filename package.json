@@ -1,11 +1,11 @@
 {
-  "name": "scriptify-portfolio-example",
+  "name": "js_113_Mioshanika",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/scriptify-portfolio-example/",
+    "build": "vite build --base=/js_113_Mioshanika/",
     "preview": "vite preview"
   },
   "devDependencies": {
